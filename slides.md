@@ -272,6 +272,8 @@ class: larger
 - `test/test_cpp_api_parity.py`
 - Generates C++ code based on database in `common_nn.py`
 
+![:scale 100%](images/parity_db.png)
+
 ---
 
 # What are the design constraints? 🎨
